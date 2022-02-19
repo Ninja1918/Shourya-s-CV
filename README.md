@@ -1,2 +1,2 @@
 # Shourya-s-CV
-Im learning lol
+This is a very basic resume website that I have built.
